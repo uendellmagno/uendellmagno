@@ -44,7 +44,7 @@ My socials:
 
 <div style="display: flex;">
   <div style="margin: 5px;">
-    <a href="www.linkedin.com/in/uendellmagno"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/uendellmagno"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   </div>
   <div style="margin: 5px;">
     <a href="mailto:uendellmagno@gmail.com"><img alt="Email Badge" src="https://img.shields.io/badge/E--mail_Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
