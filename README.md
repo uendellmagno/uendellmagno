@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🇧🇷 - Brasileiro e Carioca
 
-Developer Junior at &nbsp;<img src="https://static.wixstatic.com/media/ad8b65_68f5925ba0b8434fa683e7b4ed9f7bc0~mv2.png/v1/fill/w_111,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Copy%20of%20logosellersflow_horizontal-v3.png" alt="Company Logo" style="width: 111px; height: 46px; vertical-align: middle;">
+Junior Developer at &nbsp;<img src="https://static.wixstatic.com/media/ad8b65_68f5925ba0b8434fa683e7b4ed9f7bc0~mv2.png/v1/fill/w_111,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Copy%20of%20logosellersflow_horizontal-v3.png" alt="Company Logo" style="width: 111px; height: 46px; vertical-align: middle;">
 
 ---
 
