@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🇧🇷 - Brasileiro e Carioca
 
-Junior Developer at &nbsp;<img src="https://static.wixstatic.com/media/ad8b65_68f5925ba0b8434fa683e7b4ed9f7bc0~mv2.png/v1/fill/w_111,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Copy%20of%20logosellersflow_horizontal-v3.png" alt="Company Logo" style="width: 111px; height: 46px; vertical-align: middle;">
+Junior Developer at &nbsp;<a href="https://www.sellersflow.com/" target="_blank" rel="noopener noreferrer"><img src="https://static.wixstatic.com/media/ad8b65_68f5925ba0b8434fa683e7b4ed9f7bc0~mv2.png/v1/fill/w_111,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Copy%20of%20logosellersflow_horizontal-v3.png" alt="Company Logo" style="width: 111px; height: 46px; vertical-align: middle;"></a>
 
 ---
 
@@ -44,9 +44,9 @@ My socials:
 
 <div style="display: flex;">
   <div style="margin: 5px;">
-    <a target="_blank" href="https://www.linkedin.com/in/uendellmagno"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/uendellmagno"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank" rel="noopener noreferrer"></a>
   </div>
   <div style="margin: 5px;">
-    <a target="_blank" href="mailto:uendellmagno@gmail.com"><img alt="Email Badge" src="https://img.shields.io/badge/E--mail_Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:uendellmagno@gmail.com"><img alt="Email Badge" src="https://img.shields.io/badge/E--mail_Me-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   </div>
 </div>
