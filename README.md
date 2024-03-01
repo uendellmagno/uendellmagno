@@ -28,7 +28,7 @@ Junior Developer at &nbsp;<a href="https://www.sellersflow.com/" target="_blank"
     <img alt="Static Badge" src="https://img.shields.io/badge/Coding_in-Python-blue?logo=python&logoColor=white">
   </div>
   <div style="flex: 1; margin: 5px;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Data_Studios-SQL-orange?logo=microsoftazure&labelColor=blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Postgre-SQL-orange?logo=postgresql&labelColor=blue">
   </div>
   <div style="flex: 1; margin: 5px;">
     <img alt="Static Badge" src="https://img.shields.io/badge/Full--Stack%20Student-purple?logo=visualstudiocode&labelColor=grey">
