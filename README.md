@@ -44,11 +44,12 @@ Junior Developer at &nbsp;
 </div>
 
 ### Stuff I've worked on last week:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=uendellmagno&compact=True"/>
-</a>
-<br>
+>[!NOTE]
+>Most of the information displayed here, are related to my public development.  
+>I majorly work on Private projects :)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=uendellmagno&show_icons=true&hide=contribs,issues&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uendellmagno&layout=compact)
 ---
 
 If you'd like to reach me:
