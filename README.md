@@ -45,7 +45,7 @@ Junior Developer at &nbsp;
 
 ### Stuff I've worked on last week:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@uendellmagno&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=uendellmagno&compact=True"/>
 </a>
 <br>
 
