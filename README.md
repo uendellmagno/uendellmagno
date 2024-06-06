@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Uendell Magno, welcome! 👋🏻
+## I am Uendell Magno. Welcome! 👋🏻
 
 🌏🧭 - Exploring is in my DNA
 
 🇧🇷 - Brasileiro e Carioca
 
-Junior Developer at &nbsp;
+Junior Developer at &nbsp; &nbsp;
 <span style="width: 50px">
   <a href="https://www.sellersflow.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://static.wixstatic.com/media/ad8b65_68f5925ba0b8434fa683e7b4ed9f7bc0~mv2.png/v1/fill/w_111,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Copy%20of%20logosellersflow_horizontal-v3.png" alt="Company Logo" style="width: 110px; height: 46px; vertical-align: middle;" />
@@ -41,7 +41,11 @@ Junior Developer at &nbsp;
   <span style="margin: 5px;">
     <img alt="Static Badge" src="https://img.shields.io/badge/Data_Analysis-red?logo=pandas&labelColor=grey">
   </span>
-</div>
+</div> 
+
+
+[![wakatime](https://wakatime.com/badge/user/03f1ba94-621f-44ca-b87f-625df0982a44.svg)](https://wakatime.com/@03f1ba94-621f-44ca-b87f-625df0982a44)
+[![github](https://img.shields.io/github/followers/uendellmagno?logo=github&style=plastic)](https://github.com/uendellmagno?tab=followers) 
 
 ### Stuff I've worked on last week:
 >[!NOTE]
@@ -50,6 +54,7 @@ Junior Developer at &nbsp;
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=uendellmagno&show_icons=true&hide=contribs,issues&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uendellmagno&layout=compact)
+[![Uendell's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uendellmagno)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 If you'd like to reach me:
