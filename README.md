@@ -49,12 +49,12 @@ Junior Developer at &nbsp; &nbsp;
 
 ### Stuff I've worked on last week:
 >[!NOTE]
->Most of the information displayed here, are related to my public development.  
+>Most of the information displayed here is related to my public development.  
 >I majorly work on Private projects :)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=uendellmagno&show_icons=true&hide=contribs,issues&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uendellmagno&layout=compact)
-[![Uendell's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uendellmagno)](https://github.com/anuraghazra/github-readme-stats)
+![Uendell's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uendellmagno)
 ---
 
 If you'd like to reach me:
