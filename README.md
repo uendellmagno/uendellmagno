@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 🇧🇷 - Brasileiro e Carioca
 
-Junior Developer at &nbsp; &nbsp;
+App & Software Engineer at &nbsp; &nbsp;
 <span style="width: 50px">
   <a href="https://www.sellersflow.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.wixstatic.com/media/ad8b65_68f5925ba0b8434fa683e7b4ed9f7bc0~mv2.png/v1/fill/w_111,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Copy%20of%20logosellersflow_horizontal-v3.png" alt="Company Logo" style="width: 110px; height: 46px; vertical-align: middle;" />
+    <img src="https://static.wixstatic.com/media/ad8b65_30b2a6fcf99f4dc19d2e3d5bc4d1dbc2~mv2.png/v1/fill/w_160,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Horizontal_Cor-AzulEsc_edited.png" alt="Company Logo" style=" height: 30px; vertical-align: middle;" />
   </a>
 </span>
 
