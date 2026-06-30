@@ -58,15 +58,6 @@ App & Software Engineer at &nbsp; &nbsp;
 [![wakatime](https://wakatime.com/badge/user/03f1ba94-621f-44ca-b87f-625df0982a44.svg)](https://wakatime.com/@03f1ba94-621f-44ca-b87f-625df0982a44)
 [![github](https://img.shields.io/github/followers/uendellmagno?logo=github&style=plastic)](https://github.com/uendellmagno?tab=followers) 
 
-### Stuff I've worked on last week:
->[!NOTE]
->Most of the information displayed here is related to my public development.  
->I majorly work on Private projects :)
-
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=uendellmagno&show_icons=true&hide=contribs,issues&theme=dark) -->
-![Uendell's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uendellmagno)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uendellmagno&layout=compact)
----
 
 If you'd like to reach me:
 
