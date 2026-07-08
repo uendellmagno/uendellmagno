@@ -61,6 +61,6 @@ If you'd like to reach me:
     <a href="https://www.linkedin.com/in/uendellmagno"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank" rel="noopener noreferrer"></a>
   </span>
   <span style="margin: 5px;">
-    <a href="mailto:uendellmagno@gmail.com"><img alt="Email Badge" src="https://img.shields.io/badge/E--mail_Me-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+    <a href="mailto:uendell.magno@avlisolutions.com"><img alt="Email Badge" src="https://img.shields.io/badge/E--mail_Me-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   </span>
 </div>
