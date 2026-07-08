@@ -49,13 +49,9 @@ App & Software Engineer at &nbsp; &nbsp;
   <span style="margin: 5px;">
     <img alt="Static Badge" src="https://img.shields.io/badge/Full-Stack%20Student-purple?logo=visualstudiocode&labelColor=grey">
   </span>
-  <span style="margin: 5px;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Data_Analysis-red?logo=pandas&labelColor=grey">
-  </span>
 </div> 
 
 
-[![wakatime](https://wakatime.com/badge/user/03f1ba94-621f-44ca-b87f-625df0982a44.svg)](https://wakatime.com/@03f1ba94-621f-44ca-b87f-625df0982a44)
 [![github](https://img.shields.io/github/followers/uendellmagno?logo=github&style=plastic)](https://github.com/uendellmagno?tab=followers) 
 
 
