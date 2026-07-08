@@ -52,7 +52,6 @@ App & Software Engineer at &nbsp; &nbsp;
 </div> 
 
 
-[![github](https://img.shields.io/github/followers/uendellmagno?logo=github&style=plastic)](https://github.com/uendellmagno?tab=followers) 
 
 
 If you'd like to reach me:
