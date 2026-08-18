@@ -47,7 +47,7 @@ App & Software Engineer at &nbsp; &nbsp;
     <img alt="Static Badge" src="https://img.shields.io/badge/Postgre-SQL-ffa500?logo=postgresql&logoColor=white&labelColor=306792">
   </span>
   <span style="margin: 5px;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Full-Stack%20Student-purple?logo=visualstudiocode&labelColor=grey">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Full-Stack-purple?logo=visualstudiocode&labelColor=grey">
   </span>
 </div> 
 
