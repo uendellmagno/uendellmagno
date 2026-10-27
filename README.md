@@ -8,7 +8,7 @@
 
 ### 🧳 Where I'm working
 
-- <a href="https://www.sellersflow.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sellersflow-dark.png"><img alt="SellersFlow" src="assets/sellersflow-light.png" height="24" align="absmiddle"></picture></a> **Full Stack Engineer.** Web, mobile and data behind 350+ e-commerce brands.
+- <a href="https://www.sellersflow.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sellersflow-dark.png"><img alt="SellersFlow" src="assets/sellersflow-light.png" height="24" align="absmiddle"></picture></a> **Full Stack Engineer · Tech Lead** — Web, mobile and data behind 350+ e-commerce brands.
 - <a href="https://leiloia.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/leiloia-dark.png"><img alt="LeiloIA" src="assets/leiloia-light.png" height="24" align="absmiddle"></picture></a> **Partner, front-end & mobile lead.** AI car-auction analysis, web and iOS & Android. [Meet the team](https://leiloia.com.br/sobre).
 - <a href="https://www.avlisolutions.com"><img alt="AVLI Solutions" src="assets/avli.png" height="20" align="absmiddle"></a> **Co-founder.** Custom software and automation for businesses in Brazil.
 
